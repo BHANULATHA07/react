@@ -9,7 +9,7 @@ function Signup() {
         <input type="email" placeholder="Enter E-mail"/><br/>
         <label>Password</label>
         <input type="password" placeholder="Enter Password"/><br/>
-        <Link to ='/'><button class="text-center"
+        <Link to ='/react'><button class="text-center"
         >Signup</button></Link>
         <p>Already have an account? <Link to="/">Login</Link></p>
         </form>
