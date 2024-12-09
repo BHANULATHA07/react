@@ -11,7 +11,7 @@ function Signup() {
         <input type="password" placeholder="Enter Password"/><br/>
         <Link to ='/'><button class="text-center"
         >Signup</button></Link>
-        <p>Already have an account? <Link to="/react">Login</Link></p>
+        <p>Already have an account? <Link to="/">Login</Link></p>
         </form>
     </div>
   )
